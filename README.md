@@ -3,8 +3,7 @@
 ## Overview
 
 This project demonstrates the implementation of **DevSecOps CI/CD pipeline** for securely deploying a **Hotstar Clone** using **AWS, Docker, Kubernetes, Jenkins, Terraform, and SonarQube**. It follows security best practices to automate infrastructure provisioning, vulnerability scanning, and container orchestration.
-## Blog for Step by Step Process
-https://mrcloudbook.com/devsecops-ci-cd-deploying-a-secure-hotstar-clone-even-if-youre-not-a-pro/
+
 
 ## Features
 
