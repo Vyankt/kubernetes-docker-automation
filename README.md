@@ -102,14 +102,13 @@ This project was inspired and greatly enhanced by the **detailed documentation p
 
 For any questions or discussions, feel free to reach out:
 
-- **GitHub**: [Kritagya-web](https://github.com/Kritagya-web/)
-- **LinkedIn**: [Kritagya Kumra](https://www.linkedin.com/in/kritagya-kumra/)
-- **Portfolio**: [Portfolio](https://kritagyakumraportfolio.netlify.app/)
+- **GitHub**: Vyankteshbhalerao
+- **LinkedIn**: Vyankteshbhalerao
+- **Portfolio**: Vyanktesh
 
 ---
 <div align="center">
 
-🚀 **Created with love ❤️ by Kritagya. Happy Learning & Secure Deployments!**
 
 </div>
 
