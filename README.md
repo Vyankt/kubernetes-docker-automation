@@ -88,7 +88,7 @@ Terminate the **EC2 instance** and delete the **IAM Role**.
 
 ## Project Repository
 
-🔗 [GitHub Repository](https://github.com/Kritagya-web/Hotstar-DevOps-Project-Kubernetes-AWS-EKS)
+🔗 [GitHub Repository](
 
 ---
 
